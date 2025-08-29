@@ -1,0 +1,45 @@
+  p {
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .p1 {
+    color: orange;
+    margin-bottom: 3px;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .h2 {
+    text-align: center;
+    margin-bottom: 3px;
+  }
+
+  .h1 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 5px;
+  }
+
+  .p2 {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(48, 48, 48);
+    font-weight: lighter;
+  }
+
+  .buy-button {
+    background-color: rgb(59, 59, 215);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-family: arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    vertical-align: middle;
+    
+  }
